@@ -1,0 +1,38 @@
+﻿@using DataAccessLayer.Entity
+@model Food
+
+@{
+    ViewData["Title"] = "UpdateFood";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Food Id @Model.FoodId</h1>
+
+<form asp-action="UpdateFood" asp-controller="Food" method="post">
+    <input class="form-control" type="hidden" asp-for="FoodId" />
+    <label>Name:</label>
+    <input class="form-control" type="text" asp-for="Name" />
+    <span asp-validation-for="Name" style="color:red"></span>
+    <br />
+    <label>Description:</label>
+    <input class="form-control" type="text" asp-for="Description" />
+    <span asp-validation-for="Description" style="color:red"></span>
+    <br />
+    <label>Price:</label>
+    <input class="form-control" type="text" asp-for="Price" />
+    <span asp-validation-for="Price" style="color:red"></span>
+    <br />
+    <label>Stock:</label>
+    <input class="form-control" type="text" asp-for="Stock" />
+    <span asp-validation-for="Stock" style="color:red"></span>
+    <br />
+    <label>Image Url:</label>
+    <input class="form-control" type="text" asp-for="ImageUrl" />
+    <span asp-validation-for="ImageUrl" style="color:red"></span>
+    <br />
+    <label>Category:</label>
+    @Html.DropDownListFor(x => x.CategoryId, (List<SelectListItem>)ViewBag.v1, new { @class = "form-control" })
+    <br />
+    <button type="submit" class="btn btn-success">Update</button>
+</form>
+

@@ -1,0 +1,31 @@
+﻿@using DataAccessLayer.Entity
+@model urunekle
+
+@{
+    ViewData["Title"] = "AddFood";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Add Food</h1>
+<form method="post" asp-action="AddFood" asp-controller="Food" enctype="multipart/form-data">
+    <label>Name:</label>
+    <input class="form-control" type="text" name="Name" />
+    <br />
+    <label>Price:</label>
+    <input class="form-control" type="text" name="Price" />
+    <br />
+    <label>Stock:</label>
+    <input class="form-control" type="text" name="Stock" />
+    <br />
+    <label>Img Url:</label>
+    <input class="form-control" type="file" name="ImageUrl" />
+    <br />
+    <label>Category:</label>
+    @Html.DropDownListFor(x => x.CategoryId, (List<SelectListItem>)ViewBag.v1, new { @class = "form-control" })
+    <br />
+    <label>Description:</label>
+    <input class="form-control" type="text" name="Description" />
+    <br />
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+

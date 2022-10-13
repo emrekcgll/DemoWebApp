@@ -1,0 +1,22 @@
+﻿@using DataAccessLayer.Entity
+@model Category
+
+@{
+    ViewData["Title"] = "CategoryGet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Category Id @Model.CategoryId</h1>
+
+<form asp-action="CategoryUpdate" asp-controller="Category" method="post">
+    <input class="form-control" type="hidden" asp-for="CategoryId" />
+    <label>Category Name:</label>
+    <input class="form-control" type="text" asp-for="CategoryName" />
+    <span asp-validation-for="CategoryName" style="color:red"></span>
+    <br />
+    <label>Category Description:</label>
+    <input class="form-control" type="text" asp-for="CategoryDescription" />
+    <span asp-validation-for="CategoryDescription" style="color:red"></span>
+    <br />
+    <button type="submit" class="btn btn-success">Update</button>
+</form>

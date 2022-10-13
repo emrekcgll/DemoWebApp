@@ -1,0 +1,15 @@
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Emre\OneDrive\Masaüstü\WebRestaurantApp\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
