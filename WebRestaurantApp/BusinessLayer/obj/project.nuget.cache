@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4hN4LMKSXbIxJtwaLe4VnY4i8bHPv07apY6jMtPShMEYnDMLK2NAJptH1dqz8AlGOAMPHlVF7s+PoekZZR2msA==",
+  "dgSpecHash": "eN2ihYGqHYVmxyp//8Bdazp16WqeiOp4pvZMN2diYbVGndOA/9si+a6bCOVrlCs+Ex5SAKolw3OQRpKJgw3gzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emre\\OneDrive\\Masaüstü\\WebRestaurantApp\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "D:\\GitHub\\DemoWebApp\\WebRestaurantApp\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

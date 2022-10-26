@@ -7932,11 +7932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emre\\OneDrive\\Masaüstü\\WebRestaurantApp\\WebRestaurantApp\\WebRestaurantApp.csproj",
+      "projectUniqueName": "D:\\GitHub\\DemoWebApp\\WebRestaurantApp\\WebRestaurantApp\\WebRestaurantApp.csproj",
       "projectName": "WebRestaurantApp",
-      "projectPath": "C:\\Users\\Emre\\OneDrive\\Masaüstü\\WebRestaurantApp\\WebRestaurantApp\\WebRestaurantApp.csproj",
+      "projectPath": "D:\\GitHub\\DemoWebApp\\WebRestaurantApp\\WebRestaurantApp\\WebRestaurantApp.csproj",
       "packagesPath": "C:\\Users\\Emre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emre\\OneDrive\\Masaüstü\\WebRestaurantApp\\WebRestaurantApp\\obj\\",
+      "outputPath": "D:\\GitHub\\DemoWebApp\\WebRestaurantApp\\WebRestaurantApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7960,8 +7960,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Emre\\OneDrive\\Masaüstü\\WebRestaurantApp\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Emre\\OneDrive\\Masaüstü\\WebRestaurantApp\\DataAccessLayer\\DataAccessLayer.csproj"
+            "D:\\GitHub\\DemoWebApp\\WebRestaurantApp\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "D:\\GitHub\\DemoWebApp\\WebRestaurantApp\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }
@@ -8027,7 +8027,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }
